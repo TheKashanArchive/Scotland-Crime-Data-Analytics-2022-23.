@@ -18,6 +18,7 @@ The goal is to simulate real-world public safety analytics using interactive das
 - Identify trends in violent, property, and regulatory offenses  
 - Build an interactive multi-page Power BI dashboard  
 - Enable geographic-level exploration of crime data  
+- Present insights through structured visual storytelling  
 
 ---
 
@@ -27,6 +28,16 @@ The goal is to simulate real-world public safety analytics using interactive das
 - Link: https://www.kaggle.com/datasets/keezywallace/scottish-crimeoffences-in-2223  
 - Type: Structured crime & offense dataset (2022–2023)  
 - Tools used: Power BI, Microsoft Excel (preprocessing)  
+
+---
+
+## Project Files Included
+
+This repository includes:
+
+- Power BI (.pbix) file containing the full dashboard  
+- Excel dataset used for preprocessing and modeling  
+- Dashboard screenshots/images for quick preview of visuals  
 
 ---
 
@@ -72,7 +83,7 @@ The goal is to simulate real-world public safety analytics using interactive das
 - Geographic crime visualization  
 - Cross-filtering using unified slicer  
 - Drill-down exploration of regional data  
-- Clean, structured analytical storytelling  
+- Clean analytical storytelling with structured insights  
 
 ---
 
@@ -83,6 +94,21 @@ The goal is to simulate real-world public safety analytics using interactive das
 
 ---
 
-## Visual Background
+## Visual Assets
 
-- Adapted from dataset page imagery  
+- Dashboard screenshots included in repository  
+- Background visuals adapted from dataset imagery  
+
+---
+
+## Author Notes
+
+This project is part of a broader data analytics portfolio focused on SQL and BI-driven analytical case studies.
+
+It demonstrates practical skills in:
+
+- Data visualization  
+- Dashboard design  
+- Analytical storytelling  
+- Regional pattern analysis  
+- End-to-end BI project development  
