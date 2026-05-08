@@ -86,5 +86,3 @@ The goal is to simulate real-world public safety analytics using interactive das
 ## Visual Background
 
 - Adapted from dataset page imagery  
-
----
