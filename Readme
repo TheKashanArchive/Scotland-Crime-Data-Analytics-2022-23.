@@ -1,66 +1,66 @@
-Scotland Crime Data Analytics (2022–2023) This project provides a comprehensive visualization of crime and offense data across Scotland for the years 2022–2023 using Power BI.
+# Scotland Crime Data Analytics (2022–2023)
 
-Key Features: Three-Page Interactive Dashboard
+This project provides a comprehensive visualization of crime and offense data across Scotland for the years 2022–2023 using Power BI.
 
-Built with Power BI for intuitive navigation and dynamic analysis
+---
 
-Unified slicer enables seamless filtering across all pages
+## Key Features
 
+### Three-Page Interactive Dashboard
 
+- Built with Power BI for intuitive navigation and dynamic analysis  
+- Unified slicer enables seamless filtering across all pages  
 
-Page 1 – Overview
+---
 
-Interactive map of Scotland with regional-level data points
+## Page 1 – Overview
 
-High-level summaries of major crime and offense categories
+- Interactive map of Scotland with regional-level data points  
+- High-level summaries of major crime and offense categories  
+- Quick comparison across various offense types  
 
-Quick comparison across various offense types
+---
 
+## Page 2 – Crime Data Exploration
 
+- Visual breakdown of a wide range of crimes, from violent and sexual offenses to property-related incidents  
+- Includes bar charts, line graphs, and pie charts for deeper analytical insight  
+- Designed to provide a detailed, big-picture view of criminal activity  
 
-Page 2 – Crime Data Exploration
+---
 
-Visual breakdown of a wide range of crimes, from violent and sexual offenses to property-related incidents
+## Page 3 – Offense Data Exploration
 
-Includes bar charts, line graphs, and pie charts for deeper analytical insight
+- Focuses on public order, regulatory, and societal offenses  
+- Rich visualization using bar charts and pie charts to explore data thoroughly  
+- Highlights frequency, trends, and patterns at a categorical level  
 
-Designed to provide a detailed, big-picture view of criminal activity
+---
 
+## Data Filtering
 
+- The dashboard features a custom-styled slicer that functions as a search bar, complete with a magnifying glass icon for clarity and ease of use  
+- This refined filter allows users to search and narrow down regions efficiently, enhancing the overall user experience  
+- The selected region updates all visuals across all pages, maintaining consistency throughout the report  
+- An interactive map is also integrated into the dashboard, allowing users to click on specific regions and explore localized crime data in real time  
+- The interactive map also updates dynamically based on user selections, allowing for geographic-level drilldowns  
+- Note: The watermark at the bottom of the page is clickable and links directly to the original project repository  
 
-Page 3 – Offense Data Exploration
+---
 
-Focuses on public order, regulatory, and societal offenses
+## Tools Used
 
-Rich visualization using bar charts and pie charts to explore data thoroughly
+- Power BI  
+- Microsoft Excel (for preprocessing)  
 
-Highlights frequency, trends, and patterns at a categorical level
+---
 
+## Dataset Source
 
+- Kaggle: https://www.kaggle.com/datasets/keezywallace/scottish-crimeoffences-in-2223  
 
-Data Filtering
+---
 
-The dashboard features a custom-styled slicer that functions as a search bar, complete with a magnifying glass icon for clarity and ease of use
+## Visual Background
 
-This refined filter allows users to search and narrow down regions efficiently, enhancing the overall user experience
-
-The selected region updates all visuals across all pages, maintaining consistency throughout the report
-
-An interactive map is also integrated into the dashboard, allowing users to click on specific regions and explore localized crime data in real time
-
-The interactive map also updates dynamically based on user selections, allowing for geographic-level drilldowns
-
-Note: The watermark at the bottom of the page is clickable and links directly to the original project repository.
-
-
-
-Tools Used: Power BI, Microsoft Excel(for preprocessing)
-
-Dataset Source: Kaggle: https://www.kaggle.com/datasets/keezywallace/scottish-crimeoffences-in-2223
-
-Visual background adapted from dataset page imagery
-
-
-
-
-
+- Adapted from dataset page imagery  
