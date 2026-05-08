@@ -88,13 +88,3 @@ The goal is to simulate real-world public safety analytics using interactive das
 - Adapted from dataset page imagery  
 
 ---
-
-## Author Notes
-
-This project is part of a broader data analytics portfolio focused on SQL and BI-driven analytical case studies.
-
-It demonstrates practical skills in:
-- Data visualization  
-- Dashboard design  
-- Analytical storytelling  
-- Regional pattern analysis  
